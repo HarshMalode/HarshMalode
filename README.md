@@ -14,7 +14,7 @@ I'm a Final Year Diploma student in Computer Technology passionate about softwar
 <img src="https://img.shields.io/badge/📄_Resume-2563EB?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/harshwardhan-malode-226900386">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
